@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Multimodal Suite",
+  "description": "A high-performance creative suite featuring real-time conversational AI, intelligent image editing, and cinematic video generation powered by Gemini 2.5 and Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
